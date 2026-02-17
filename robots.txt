@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cuyahogafallsplumbingco.com/sitemap.xml
